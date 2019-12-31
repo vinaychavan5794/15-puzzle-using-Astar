@@ -1,4 +1,4 @@
-#15 puzzle problem using A* algorithm
+# 15 puzzle problem using A* algorithm
 
 Instruction to run the code:
 
